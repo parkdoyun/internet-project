@@ -1,0 +1,63 @@
+@charset "UTF-8";
+#sale_info_table{
+
+
+}
+#leftframe{
+text-align:center;
+border-right:1.5px solid;
+width:75%;
+
+float:left;
+height:1000px;
+}
+#rightframe{
+width:24%;
+
+float:right;
+height:1000px;
+}
+#sale_board{
+width:49%;
+height:80%;
+float:left;
+
+border:1.5px solid;
+}
+#purchase_board{
+width:48%;
+height:80%;
+float:right;
+margin-right:0.5%;
+border:1.5px solid;
+}
+#sale_info{
+border:1.5px solid;
+width:80%;
+margin-left:10%;
+height:320px;
+text-align:center;
+}
+#sale_add{
+border:1.5px solid;
+width:80%;
+margin-left:10%;
+height:250px;
+}
+table{
+	border-collapse : collapse;
+}
+#shopping_cart{
+	border : 1.5px solid;
+	width : 70%;
+	margin-top : 10px;
+	margin-left : 15%;
+	text-align : center;
+	padding-bottom : 30px;
+	padding-top : 30px;
+	
+	
+}
+#shopping_cart_table{
+	
+}
